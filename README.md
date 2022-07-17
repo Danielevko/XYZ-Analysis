@@ -11,3 +11,5 @@ I needed to perform data analysis for two tasks:
 ○ "Everything else" - the lowest likelihood
 
 2.	 What are the main characteristics of "top videos"?  After identifying the hot videos' characteristics, how would you use this information from a product standpoint? 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P51fB3_JpE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
