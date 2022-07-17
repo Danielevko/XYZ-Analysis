@@ -12,11 +12,4 @@ I needed to perform data analysis for two tasks:
 
 2.	 What are the main characteristics of "top videos"?  After identifying the hot videos' characteristics, how would you use this information from a product standpoint? 
 
-<div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
-     <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
-      </a>
-    </div>
+[![Watch the video](https://img.youtube.com/vi/P51fB3_JpE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=P51fB3_JpE8)
