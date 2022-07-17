@@ -12,4 +12,6 @@ I needed to perform data analysis for two tasks:
 
 2.	 What are the main characteristics of "top videos"?  After identifying the hot videos' characteristics, how would you use this information from a product standpoint? 
 
+<h2> Watch my video presentation of my solution! </h2>
+
 [![Watch the video](https://img.youtube.com/vi/P51fB3_JpE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=P51fB3_JpE8)
